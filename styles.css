@@ -1,0 +1,92 @@
+* {
+    font-family: "Papyrus", sans-serif;
+  }
+  
+  body {
+    background-color: grey;
+  }
+  
+  .header {
+    display: flex;
+    align-items: center;
+  }
+  .main-name {
+    color: #003d66;
+    font-size: 100px;
+  }
+  
+title {
+    text-align:center;
+}
+
+#info {
+    background-color: grey;
+    color: darkgrey;
+    margin-left: auto;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 40px;
+    padding-right: 40px;
+    font-size: 20px;
+    text-align: center;
+    border: none;
+    border-radius: 10px;
+    border-color: grey;
+    border-width: 10px;
+  }
+  
+  #log {
+    background-color: darkgrey;
+    border: 50px, solid;
+    border-color: grey;
+    width: 50%;
+    margin: auto;
+    margin-top: 150px;
+    padding: 100px;
+    color: #e6eaef;
+    text-align: center;
+    padding-top: 100px;
+    padding-bottom: 100px;
+  }
+  
+  form {
+    margin: 10px;
+  }
+  
+  input[type="text"] {
+    transition: width 4s ease-in-out;
+  }
+  
+  input[type="text"]:focus {
+    width: 50%;
+  }
+  
+  #user {
+    margin-bottom: 20px;
+  }
+  
+  #pass {
+    border: #003d66;
+  }
+  
+  #desc {
+    padding: 20px;
+    border-color: black;
+    border: black;
+    border-radius: 10px;
+  }
+  
+  p > button {
+    margin: 20px;
+    display: flex;
+  }
+  
+  #h2abt {
+    text-align: center;
+  }
+  
+  a {
+    text-decoration: none;
+    color: #003d66;
+    text-align: center;
+  }
