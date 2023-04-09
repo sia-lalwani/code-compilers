@@ -8,7 +8,11 @@ This online dictionary is a useful tool for people who need quick and easy acces
 
 
 whats in this repo?
+
 phase3 - content from phase 3 (implementation)
+
+
+
 members
 Sia Lalwani
 Harshjyot Singh
