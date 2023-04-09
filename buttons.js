@@ -18,9 +18,7 @@ function enterButton() {
     } 
 }
 function historyButton(){
-    window.open("")
+    window.open("./history.html");
 }
-function vocaButton(){
-    window.open("./")
-}
+
 
