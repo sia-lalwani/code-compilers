@@ -13,7 +13,7 @@ phase3 - content from phase 3 (implementation)
 
 
 
-members
-Sia Lalwani
-Harshjyot Singh
+members:
+Sia Lalwani,
+Harshjyot Singh,
 Bismah Iqbal 
